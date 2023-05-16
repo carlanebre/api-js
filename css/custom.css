@@ -1,0 +1,84 @@
+/*
+ESTE CSS SOBREESCRIBE Y PERSONALIZA ESTILOS DE BOOTSTRAP
+*/
+
+/* =======================================================================
+GENERAL
+========================================================================== */
+
+.flexbox {
+  display: block;
+  justify-content: space-between;
+}
+
+@media (min-width: 651px) {
+  .flexbox {
+    display: flex;
+  }
+}
+
+@media (max-width: 992px) {
+  .container-custom {
+    max-width: none;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 768px) {
+  .container-custom {
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .container-custom {
+    max-width: none;
+  }
+}
+
+.container-narrow {
+  max-width: 600px;
+}
+
+
+/* =======================================================================
+HERO
+========================================================================== */
+
+.hero-img {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+}
+
+@media (max-width: 650px) {
+  .hero-img {
+    width: 100%;
+    padding: 24px!important;
+    height: max-content;
+  }
+}
+
+.hero-trasparent {
+  background: rgba(00, 00, 00, 0.6);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.hero-index {
+  position: relative;
+  z-index: 10;
+  color: white;
+  margin-top: 50px;
+}
+
+#table tbody tr th {
+  width: 182px!important;
+}
