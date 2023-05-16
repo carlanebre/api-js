@@ -1,4 +1,4 @@
-# Hito Individual 3T Lenguaje de marcas
+# Hito Individual Lenguaje de marcas 3T
 
 Visualización del proyecto:
 
