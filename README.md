@@ -5,6 +5,6 @@
 
 Visualización del proyecto:
 
-- Calculadora: https://carlanebre.github.io/hito_lm_3t/calcu.html
+- Calculadora: https://carlanebre.github.io/api-js/calcu.html
 
-- Api: https://carlanebre.github.io/hito_lm_3t/api.html
+- Api: https://carlanebre.github.io/api-js/api.html
