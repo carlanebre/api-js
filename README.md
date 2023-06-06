@@ -1,8 +1,7 @@
 # Hito Individual Lenguaje de marcas 3T
 
-Acceso a API externa.
-
-Tecnologías usadas: HTML5, CSS3 y JavaScript.
+- Acceso a API externa.
+- Tecnologías usadas: HTML5, CSS3 y JavaScript.
 
 Visualización del proyecto:
 
